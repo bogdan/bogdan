@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Bogdan::VERSION
   spec.authors       = ["Bogdan Gusiev"]
   spec.email         = ["agresso@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Bogdan's utility functions}
+  spec.summary       = %q{My personal supporter kit}
+  spec.homepage      = "http://github.com/bogdan/bogdan"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
